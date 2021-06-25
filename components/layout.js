@@ -46,7 +46,7 @@ export default function Layout({ children, home }) {
                 </header>
                 <main>{children}</main>
                 {!home && (
-                    <div className="container mx-auto mb-10 px-20">
+                    <div className="container mx-auto px-20">
                         <div className={styles.backToHome}>
                             <Link href="/">
                                 <a>← Back to home</a>

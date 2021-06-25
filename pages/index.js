@@ -22,8 +22,8 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       {/* Add this <section> tag below the existing <section> tag */}
-      <div className="container mx-auto">
-        <div className="h-64 grid grid-rows-12 grid-flow-col gap-4 mb-10">
+      <div className="container mx-auto  px-20">
+        <div className="h-64 grid grid-rows-12 grid-flow-col gap-4 ">
           {allPostsData.map(({ id, date, title, desc }) => (
             <div className="max-w-md py-4 px-8 bg-white shadow-lg rounded-lg my-20 " key={id}>
               <div className="flex justify-center md:justify-end -mt-16">
