@@ -7,7 +7,7 @@ export default function About() {
             <Head>
                 <title>{siteTitle}</title>
             </Head>
-            
+
         </Layout>
     )
 }
