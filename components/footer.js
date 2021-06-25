@@ -15,7 +15,7 @@ export default function Footer() {
                                 <span className="fab fa-facebook-f mr-2"></span> Follow
           </button>
                             <button className="bg-twitter py-2 px-4 text-white rounded ml-2 mt-2 transition-colors duration-300">
-                                <span className="fab fa-twitter mr-2"></span> Follow @rumsan
+                                <span className="fab fa-twitter mr-2"></span> @rumsan
           </button>
                         </div>
                     </div>
