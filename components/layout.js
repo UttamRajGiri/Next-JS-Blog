@@ -38,21 +38,20 @@ export default function Layout({ children, home }) {
                         </>
                     ) : (
                             <>
+                                <div class="mt-5 ">
 
-                                <h2 className={utilStyles.headingLg}>
-                                    <Link href="/">
-                                        <a className={utilStyles.colorInherit}>{name}</a>
-                                    </Link>
-                                </h2>
+                                </div>
                             </>
                         )}
                 </header>
                 <main>{children}</main>
                 {!home && (
-                    <div className={styles.backToHome}>
-                        <Link href="/">
-                            <a>← Back to home</a>
-                        </Link>
+                    <div className="container mx-auto mb-10 px-20">
+                        <div className={styles.backToHome}>
+                            <Link href="/">
+                                <a>← Back to home</a>
+                            </Link>
+                        </div>
                     </div>
                 )}
             </div>
