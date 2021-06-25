@@ -2,6 +2,7 @@
 title: 'Introduction to Digital Assets'
 date: '2020-01-01'
 desc: 'Digital assets, sometimes called tokens, are poorly understood.'
+img: '/images/profile-1.jpg'
 ---
 
 Digital assets, sometimes called tokens, are poorly understood. Here's an outline of digital assets based on the book - Blockchain Revolution and Blockchain Research Institute Taxonomy of Cryptoassets.

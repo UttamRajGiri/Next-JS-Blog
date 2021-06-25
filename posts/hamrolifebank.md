@@ -2,6 +2,8 @@
 title: 'Transparent Blood Management'
 date: '2020-01-02'
 desc: 'On May 6, 2019, Kantipur publication published an article '
+img: '/images/profile-2.jpg'
+
 ---
 
 On May 6, 2019, Kantipur publication published an article (Link) about a 5 years old baby girl who passed away due to transfusion of blood component of wrong group. The blood grouping report of the girl stated she was “O” positive but she was transfused “A” positive. When a wrong type of blood is transfused in the body it is called ABO incompatible. ABO incompatibility triggers a reaction in the body which is serious and potentially fatal. These reactions are very rare as doctors are aware of the potential outcome of transfusing a wrong blood. Hence, many protocols and precaution manuals are in place to avoid these situation.

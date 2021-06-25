@@ -2,6 +2,8 @@
 title: 'Rumsan Group of Companies'
 date: '2021-05-25'
 desc: 'Rumsan is a blockchain-focused digital innovation company.'
+img: '/images/profile.jpg'
+
 ---
 
 Rumsan is a blockchain-focused digital innovation company.
