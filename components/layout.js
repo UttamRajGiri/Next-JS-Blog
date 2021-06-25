@@ -8,7 +8,7 @@ import Footer from '../components/footer'
 
 
 const name = 'Uttam Raj Giri'
-export const siteTitle = 'Uttam Raj Giri - Rumsan'
+export const siteTitle = 'Rumsan Group of companies'
 
 export default function Layout({ children, home }) {
     return (
