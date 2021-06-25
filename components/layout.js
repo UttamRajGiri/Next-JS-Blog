@@ -4,6 +4,8 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 import Navbar from '../components/navbar'
+import Footer from '../components/footer'
+
 
 const name = 'Uttam Raj Giri'
 export const siteTitle = 'Uttam Raj Giri - Rumsan'
@@ -11,7 +13,7 @@ export const siteTitle = 'Uttam Raj Giri - Rumsan'
 export default function Layout({ children, home }) {
     return (
         <div>
-            <Navbar />
+            <Navbar></Navbar>
             <div className={styles.container}>
                 <Head>
                     <link rel="icon" href="https://assets.rumsan.com/rumsan-test/rumsan-favicon.png" />
@@ -73,6 +75,7 @@ export default function Layout({ children, home }) {
                     </div>
                 )}
             </div>
+            <Footer></Footer>
         </div>
     )
 }
