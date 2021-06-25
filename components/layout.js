@@ -6,7 +6,7 @@ import Link from 'next/link'
 import Navbar from '../components/navbar'
 
 const name = 'Uttam Raj Giri'
-export const siteTitle = 'Hello there'
+export const siteTitle = 'Uttam Raj Giri - Rumsan'
 
 export default function Layout({ children, home }) {
     return (
@@ -14,7 +14,7 @@ export default function Layout({ children, home }) {
             <Navbar />
             <div className={styles.container}>
                 <Head>
-                    <link rel="icon" href="/favicon.ico" />
+                    <link rel="icon" href="https://assets.rumsan.com/rumsan-test/rumsan-favicon.png" />
                     <meta
                         name="description"
                         content="Learn how to build a personal website using Next.js"
